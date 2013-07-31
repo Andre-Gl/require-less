@@ -12,5 +12,4 @@
     "include": ["less-builder.js", "less.js", "lessc.js", "lessc-server.js"],
     "main": "less.js"
   }
-  }
 }
