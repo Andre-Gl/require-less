@@ -8,6 +8,9 @@
   "jam": {
     "dependencies": {
       "require-css": "0.1.x"
-    }
+    },
+    "include": ["less-builder.js", "less.js", "lessc.js", "lessc-server.js"],
+    "main": "less.js"
+  }
   }
 }
