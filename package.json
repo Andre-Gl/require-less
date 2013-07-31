@@ -1,4 +1,6 @@
 {
+  "name": "require-less",
+  "description": "A RequireJS loader plugin to allow LESS requires and optimization",
   "volo": {
     "type": "directory",
     "dependencies": {
